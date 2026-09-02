@@ -40,7 +40,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Follow Us</h4>
             <div className="flex gap-4 text-2xl">
-              <a href="https://www.instagram.com/skintones.co/" target="_blank" rel="noopener noreferrer" className="hover:text-skntones-accent transition-colors">
+              <a href="https://www.instagram.com/p/DQKbQGuEvUp/" target="_blank" rel="noopener noreferrer" className="hover:text-skntones-accent transition-colors">
                 <FaInstagram />
               </a>
               <a href="#" className="hover:text-skntones-accent transition-colors">
@@ -58,7 +58,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
           <p>&copy; 2026 Skintones.co. All rights reserved.</p>
-          <p className="mt-2">San Bruno, CA 94066</p>
+          <p className="mt-2">881 San Bruno Ave W, San Bruno, CA 94066</p>
         </div>
       </div>
     </footer>
