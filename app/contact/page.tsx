@@ -64,10 +64,11 @@ export default function Contact() {
             </div>
             <div>
               <h3 className="font-light mb-3 text-sm tracking-widest uppercase">Instagram</h3>
-              <a href="https://www.instagram.com/skintones.co/" target="_blank" rel="noopener noreferrer" className="text-black font-light hover:underline">@skintones.co</a>
+              <a href="https://www.instagram.com/p/DQKbQGuEvUp/" target="_blank" rel="noopener noreferrer" className="text-black font-light hover:underline">@skintones.co</a>
             </div>
             <div>
               <h3 className="font-light mb-3 text-sm tracking-widest uppercase">Location</h3>
+              <p className="text-gray-700 font-light">881 San Bruno Ave W</p>
               <p className="text-gray-700 font-light">San Bruno, CA 94066</p>
             </div>
           </div>
