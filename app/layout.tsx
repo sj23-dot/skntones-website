@@ -4,9 +4,9 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'Skntones - Art, Fashion & Community',
-  description: 'Skntones is a multidisciplinary creative agency and community hub based in Minneapolis, blending retail fashion with art, culture, and community initiatives.',
-  keywords: 'fashion, art, community, minneapolis, apparel, creative',
+  title: 'Skintones.co - Art, Fashion & Community',
+  description: 'Thoughtfully crafted apparel celebrating art, culture, and community. Skintones.co is a collective of artists and designers.',
+  keywords: 'fashion, art, community, apparel, skintones',
 }
 
 export default function RootLayout({
@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-skntones-dark text-white">
+      <body className="bg-white text-black">
         <Navbar />
         <main className="min-h-screen">
           {children}
