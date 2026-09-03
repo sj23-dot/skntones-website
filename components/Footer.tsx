@@ -30,9 +30,9 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Support</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
               <li><Link href="/contact" className="hover:text-skntones-accent">Contact Us</Link></li>
+              <li><Link href="/booking" className="hover:text-skntones-accent">Book Here</Link></li>
               <li><Link href="#" className="hover:text-skntones-accent">FAQ</Link></li>
               <li><Link href="#" className="hover:text-skntones-accent">Privacy</Link></li>
-              <li><Link href="#" className="hover:text-skntones-accent">Terms</Link></li>
             </ul>
           </div>
 
